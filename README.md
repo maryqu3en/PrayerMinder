@@ -1,6 +1,6 @@
 # PrayerMinder Bot
 
-PrayerMinder Bot is a Discord bot that provides users with accurate prayer times based on their location. The bot fetches prayer times using the Aladhan API and allows users to query prayer times for different cities.
+PrayerMinder Bot is a Discord bot that provides users with accurate prayer times based on their location. The bot fetches prayer times using the [Aladhan API](https://aladhan.com/prayer-times-api) and allows users to query prayer times for different cities.
 
 ## Features
 
